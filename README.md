@@ -23,6 +23,7 @@ Copyrights and all credits on the stories belong to the authors. I did minor edi
 
 - 👉️  [View Story](https://echsecutor.github.io/story_adventure/viewer/?load=https://raw.githubusercontent.com/Lizzard9/nsfw_stories/refs/heads/main/Lulu_0xFF_story.json)
 - [Original Story](https://civitai.com/articles/19779/lulu-in-the-realm-of-0xff)
-- Author: [n_Arno](https://civitai.com/user/n_Arno)
+- Original Author: [n_Arno](https://civitai.com/user/n_Arno)
+  - Additional pics and non-linear story elements by [LizArt9](https://civitai.com/user/LizArt9)
 
 
