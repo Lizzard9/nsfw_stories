@@ -1,0 +1,86 @@
+body {
+  font: 14px helvetica neue, helvetica, arial, sans-serif;
+  background-color: black;
+  color: white;
+  font-size: x-large;
+}
+
+.modal-dialog {
+  color: black;
+}
+
+#background {
+  background-color: black;
+  margin: 0;
+  text-align: center;
+  padding: 2px;
+  z-index: -1;
+}
+
+#background > img {
+  max-width: 99vw;
+  max-height: 99vh;
+  margin: 0;
+  z-index: -1;
+}
+
+#menu_container {
+  position: relative;
+  top: 25vh;
+}
+
+#spinner {
+  position: fixed;
+  top: 50vh;
+  width: 100vw;
+}
+
+.container {
+  max-width: 99vw;
+}
+
+@media screen and (min-width: 780px) {
+  #background {
+    width: 99vw;
+    height: 99vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  #story_container {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+  }
+}
+
+.btn {
+  font-size: x-large;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#story_text {
+  text-align: left;
+}
+
+.col {
+  text-align: center;
+}
+
+.row {
+  margin-top: 5px;
+}
+
+:link {
+  color: greenyellow;
+}
+:visited {
+  color: greenyellow;
+}
+:link:active,
+:visited:active {
+  color: greenyellow;
+}
