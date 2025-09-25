@@ -69,10 +69,13 @@ export const tools_files = {
         "cytoscape.esm.min.js",
         "cytoscape-klay.mjs",
         "favicon.png",
+        "file-saver.js",
+        "file-saver.mjs",
         "index.html",
         "jszip.mjs",
         "node_events.js",
         "README.md",
+        "storage.js",
         "toast.js",
         "bootstrap.bundle.min.js",
         "buffer.mjs",
@@ -110,6 +113,8 @@ export const tools_files = {
         "common.js",
         "favicon.ico",
         "favicon.png",
+        "file-saver.js",
+        "file-saver.mjs",
         "index.html",
         "marked.esm.js",
         "purify.es.mjs",
@@ -139,7 +144,7 @@ export function load_file(content_handler, read_as_data) {
   input.click();
 }
 
-function read_blob_and_handle(blob, content_handler, read_as_data) {
+export function read_blob_and_handle(blob, content_handler, read_as_data) {
   const reader = new FileReader();
   if (read_as_data) {
     reader.readAsDataURL(blob);
