@@ -20,7 +20,7 @@ Copyrights and all credits on the stories belong to the authors. I did minor edi
 
 # Lulu in the realm of 0xFF
 
-- 👉️ [View Story](https://lizzard9.github.io/nsfw_stories/lulu_0xff/)
+- 👉️ [View Story](https://lizzard9.github.io/nsfw_stories/lulu_0xff)
 - [Original Story](https://civitai.com/articles/19779/lulu-in-the-realm-of-0xff)
 - Original Author: [n_Arno](https://civitai.com/user/n_Arno)
   - Additional pics and non-linear story elements by [LizArt9](https://civitai.com/user/LizArt9)
